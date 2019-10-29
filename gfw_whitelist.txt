@@ -321,6 +321,7 @@
 ||imooc.com
 ||imququ.com
 ||indienova.com
+||inhand.design
 ||installbi.me
 ||ip-api.com
 ||ipip.net
