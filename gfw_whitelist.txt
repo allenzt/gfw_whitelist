@@ -20,6 +20,9 @@
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
+！special
+||inhandiot.com
+
 ! 0
 ||0o0.ooo
 
