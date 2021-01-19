@@ -126,6 +126,7 @@
 ||atomicstryker.net
 ||augix.me
 ||autohome.com.cn
+||azure.cn
 
 ! B
 ||baidu.com
@@ -325,6 +326,7 @@
 ||imququ.com
 ||indienova.com
 ||inhand.design
+||inhand.com.cn
 ||installbi.me
 ||ip-api.com
 ||ipip.net
